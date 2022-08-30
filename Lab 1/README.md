@@ -117,7 +117,7 @@ For the slippers, using the phone as the light indicator is too bright for the n
 
 \*\***Are there new ideas that occur to you or your collaborators that come up from the acting?**\*\*
 
-
+None.
 
 ## Part C. Prototype the device
 
@@ -151,6 +151,8 @@ https://user-images.githubusercontent.com/32145783/187339587-0cb4d80f-865d-4d50-
 Now, hange the goal within the same setting, and update the interaction with the paper prototype. 
 
 \*\***Show the follow-up work here.**\*\*
+
+The follow-up work is in the Record section.
 
 
 ## Part E. Costume the device
