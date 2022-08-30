@@ -175,14 +175,13 @@ Currently the design has to consider the fact that I am using my phone as the li
 
 \*\***Take a video of your prototyped interaction.**\*\*
 
-
 https://user-images.githubusercontent.com/32145783/187333603-30ec80d1-c600-4613-96c2-2b9b277f039b.mov
 
 
 https://user-images.githubusercontent.com/32145783/187333619-c8187fca-6865-4ec4-a27f-d2eb65d98d57.mov
 
 
-https://user-images.githubusercontent.com/32145783/187339090-a451a0e8-c71d-4b31-9f06-faf2001aef4c.MOV
+https://user-images.githubusercontent.com/32145783/187340055-011a08df-be64-479a-8662-2027a02f63a9.mov
 
 
 \*\***Please indicate anyone you collaborated with on this Lab.**\*\*
