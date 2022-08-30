@@ -71,13 +71,38 @@ The interactive device can be anything *except* a computer, a tablet computer or
 
 \*\***Describe your setting, players, activity and goals here.**\*\*
 
+1. The interaction happens inside people's house. Players are the house owner and anyone that is detected by the security monitor around the propety. They can be visitors, package delivery guys, thieves... The players The house owner is trying to know if someone is outside the house. The people outside the door are trying to either get in the house or to leave something outside.
+2. The interaction happens at the Covid-19 testing site. Players are doctors, covid test excutors, and subjects like students and travelers. 
+covid test excutors are conducting covid test on subjects. The goal for test excutors is to find out if subjects has covid-19 and subjects are there to know whether they have covid-19. 
+3. The interaction happens in the bathroom. Users are people who take shower. The goal is to remind the player to close the shower head and save water resource.
+4. The interaction happens anywhere inside or outside of the house. Players involved are people who like planting. The activity is to water their plants and flowers. The goal of the player is to water their flowers on time to keep the plants alive.
+5. The interaction can happen in an office, a house, or any indoor space in general. Players are anyone who drinks hot fluid. The goal for the player is to drink water when it is at a proper temperature to avoid buring his/her mouth. 
+6. The interaction happens inside people's house. Players are basically anyone who uses napkins. The goal for the player is to know when it is a good time to add more napkins to the napkin box. 
+7. The interaction happens in the bedroom close to bed. The players are usually seniors and people with bad eye sight at night. They try to find their slippers and go to the bathroom in this setting. The goal for the player is to find their slippers quickly and go to the bathroom safely. 
+
+
 Storyboards are a tool for visually exploring a users interaction with a device. They are a fast and cheap method to understand user flow, and iterate on a design before attempting to build on it. Take some time to read through this explanation of [storyboarding in UX design](https://www.smashingmagazine.com/2017/10/storyboarding-ux-design/). Sketch seven storyboards of the interactions you are planning. **It does not need to be perfect**, but must get across the behavior of the interactive device and the other characters in the scene. 
 
 \*\***Include pictures of your storyboards here**\*\*
+![SB1](./Storyboard1.jpg)
+![SB2](./Storyboard2.jpg)
+![SB3](./Storyboard3.jpg)
+![SB4](./Storyboard4.jpg)
+![SB5](./Storyboard5.jpg)
+![SB6](./Storyboard6.jpg)
+![SB7](./Storyboard7.jpg)
+
 
 Present your ideas to the other people in your breakout room (or in small groups). You can just get feedback from one another or you can work together on the other parts of the lab.
 
 \*\***Summarize feedback you got here.**\*\*
+1. The interaction could have more color code instead of just red. 
+2. Like the idea, it's really great. But now with the covid cases cooling down, maybe consider similar uses in different contexts. 
+3. The idea is great, but was confused by the sun icon on the mirror. If the water is leaking, why is there a sun icon?
+4. This is a great idea, and I hope to see this in the final video. 
+5. Maybe the color can have a greater area on the cup to make the indication more obvious. Also consider using different color.
+6. Very practical and useful idea, maybe consider using different colors when the tissue paper is running out
+7. Is the light going to light up for the entire night then? If not, are they going to find the slippers?
 
 
 ## Part B. Act out the Interaction
@@ -86,7 +111,12 @@ Try physically acting out the interaction you planned. For now, you can just pre
 
 \*\***Are there things that seemed better on paper than acted out?**\*\*
 
+For the napkin box, when we are testing, the user can only see the light from the front side when they lower their view to match horizontally with the box.
+
+For the slippers, using the phone as the light indicator is too bright for the night setting and can disturb people when they want to sleep. In the actual setting we will use small dimmed lights as indicators.
+
 \*\***Are there new ideas that occur to you or your collaborators that come up from the acting?**\*\*
+
 
 
 ## Part C. Prototype the device
@@ -100,6 +130,9 @@ We invented this tool for this lab!
 If you run into technical issues with this tool, you can also use a light switch, dimmer, etc. that you can can manually or remotely control.
 
 \*\***Give us feedback on Tinkerbelle.**\*\*
+
+In general it works well but as an apple user I really hope the software can have full-screen mode on iOS device. Also, maybe it is just me but the phone brower sometimes has a lag on changing colors.
+
 
 
 ## Part D. Wizard the device
@@ -120,16 +153,31 @@ Think about the setting of the device: is the environment a place where the devi
 
 \*\***Include sketches of what your devices might look like here.**\*\*
 
+![](./NapkinBox.jpg)
+![](./Slippers.jpg)
+![](./Vase.jpg)
+
 \*\***What concerns or opportunitities are influencing the way you've designed the device to look?**\*\*
 
+Currently the design has to consider the fact that I am using my phone as the light device, which is big and cumbersome. If eventually we can get rid of is constraint, the light display can better merge with the iot device and make the usecase more accessible and realistic. 
 
 ## Part F. Record
 
 \*\***Take a video of your prototyped interaction.**\*\*
 
+<video width="320" height="240" controls>
+  <source src="./napkinbox.MOV" type="video/mp4">
+</video>
+
+
+![](./slipper.MOV)
+
 \*\***Please indicate anyone you collaborated with on this Lab.**\*\*
 Be generous in acknowledging their contributions! And also recognizing any other influences (e.g. from YouTube, Github, Twitter) that informed your design. 
 
+github: JMortanTan, name: Jonathan Tan, cornellId: jmt362
+
+github: Sylv1011, name: Shuyuan Ding, cornellId: sd569
 
 
 # Staging Interaction, Part 2 
