@@ -165,12 +165,14 @@ Currently the design has to consider the fact that I am using my phone as the li
 
 \*\***Take a video of your prototyped interaction.**\*\*
 
-<video width="320" height="240" controls>
-  <source src="./napkinbox.MOV" type="video/mp4">
-</video>
+https://user-images.githubusercontent.com/32145783/187333197-2ffb68f0-b945-451d-b258-c6c438570800.MOV
 
 
-![](./slipper.MOV)
+https://user-images.githubusercontent.com/32145783/187333220-db79b517-aa28-42a9-bb11-0b7ebef6da49.MOV
+
+
+https://user-images.githubusercontent.com/32145783/187333240-972303a8-3964-487e-9f9b-080de42f1b6b.MOV
+
 
 \*\***Please indicate anyone you collaborated with on this Lab.**\*\*
 Be generous in acknowledging their contributions! And also recognizing any other influences (e.g. from YouTube, Github, Twitter) that informed your design. 
